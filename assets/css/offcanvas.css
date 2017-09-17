@@ -1,0 +1,10 @@
+body {
+  overflow-x: hidden; /* Prevent scroll on narrow devices */
+  /*background-color: #eee;*/
+}
+body {
+  padding-top: 70px;
+}
+footer {
+  padding: 10px 0;
+}
